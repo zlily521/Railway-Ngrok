@@ -10,7 +10,7 @@ services:
     envVars:
       - key: PORT
         value: 80
-      - key: NGROK_TOKEN
+      - key: 2M7lUjVmhA9zpS9XIB02nHQxGRa_7JiwtBiXVQ5WJiySedAua
         sync: false
       - key: REGION
         sync: false
